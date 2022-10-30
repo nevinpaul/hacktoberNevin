@@ -11,3 +11,4 @@ const userAction = async () => {
   }
 
   userAction();
+//sample api call using fetch
