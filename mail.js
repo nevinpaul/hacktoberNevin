@@ -22,3 +22,4 @@ const sendMail = function (mailOptions) {
 module.exports = {
     sendMail
 }
+//sample node mail code
